@@ -1,1 +1,3 @@
-* {linear-gradient(to left, pink, yellow);}
+body {
+  background: linear-gradient(to left, pink, yellow);
+}
